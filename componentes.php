@@ -20,13 +20,13 @@
                 <li>
                 <a href="#">MANUTENÇÕES</a>
                   <ul class="dropdown">
-                    <li><a href="placa-mae.html">PLACA-MÃE</a></li>
-                    <li><a href="cpu.html">CPU</a></li>
-                    <li><a href="memoria-ram.html">MEMÓRIA RAM</a></li>
-                    <li><a href="disco-rigido.html">DISCO RÍGIDO</a></li>
-                    <li><a href="ssd.html">SSD</a></li>
-                    <li><a href="gpu.html">GPU</a></li>
-                    <li><a href="psu.html">PSU</a></li>
+                  <li><a href="./manutençao/placa-mae.html">PLACA-MÃE</a></li>
+                    <li><a href="./manutençao/cpu.html">CPU</a></li>
+                    <li><a href="./manutençao/memoria-ram.html">MEMÓRIA RAM</a></li>
+                    <li><a href="./manutençao/disco-rigido.html">DISCO RÍGIDO</a></li>
+                    <li><a href="./manutençao/ssd.html">SSD</a></li>
+                    <li><a href="./manutençao/gpu.html">GPU</a></li>
+                    <li><a href="./manutençao/psu.html">PSU</a></li>
                   </ul>
                 </li>
             </ul>

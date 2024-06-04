@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/carro.css">
 
+
     <title>home</title>
 </head>
 <body>
@@ -37,58 +38,78 @@
                 </li>
             </ul>
           </nav>
+
+          <br><br><br>
           
-          <div class="slideshow">
-    <a href="seu-link1">
-        <img src="ddr2.jpg" alt="Imagem 1">
-    </a>
-    <a href="seu-link2">
-        <img src="alcool.jpg" alt="Imagem 2">
-    </a>
-    <a href="seu-link3">
-        <img src="vdd.png" alt="Imagem 3">
-    </a>
+    <div class="slideshow-container" >
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="https://static-cse.canva.com/blob/1173240/screen3.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
 </div>
 
-<article>
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="ca.jpg" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
 
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="https://coisadefotografa.com/wp-content/uploads/2021/09/como-ter-fotos-mais-nitidas-scaled.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+    
+
+    <article>
         <div>
-          <font color="#4B0082">
-            <h2>O que é o hardware:</h2>
-            <hr size="6px" width="100%" color="#3b0063"></hr>
-          </font>
-        </div>
+                <font color="#4B0082">
+                    <h2>O que é o hardware:</h2>
+                    <hr size="3px" width="100%" color="#3b0063"></hr>
+                </font>
+                </div>
+                <h3>Hardware é qualquer elemento físico de computadores e outros sistemas microeletrônicos. Ele pode ser um dispositivo externo ou interno. Em inglês, hardware significa “equipamento”.
+                </h3>
+                <br>
+                <br><br>
 
-           <h3>Hardware é qualquer elemento físico de computadores e outros sistemas microeletrônicos. Ele pode ser um dispositivo externo ou interno. Em inglês, hardware significa “equipamento”.
-           </h3>
-           <br>
+                <div>
+                <font color="#4B0082">
+                    <h2>Hardware interno:</h2>
+                    <hr size="3px" width="100%" color="#3b0063"></hr>
+                </font>
+                </div>
+                <h3>
+                Se refere aos componentes localizados no interior do dispositivo, essenciais para o seu funcionamento. Ou seja, sem um deles, o celular, tablet ou PC não funciona corretamente ou, simplesmente, é inutilizado.
+                <br><br>
+                    Exemplos: placas de memória RAM, discos rígidos, SSDs internos, leitores de mídia (CD, DVD ou Blue Ray), placas-mãe, processadores, coolers, fontes, placas de vídeo, etc.
+                    </h3>
+                <br>
+                <br><br>
 
-        <div>
-          <font color="#4B0082">
-            <h2>Hardware interno:</h2>
-            <hr size="6px" width="100%" color="#3b0063"></hr>
-          </font>
-        </div>
-           <h3>
-           Se refere aos componentes localizados no interior do dispositivo, essenciais para o seu funcionamento. Ou seja, sem um deles, o celular, tablet ou PC não funciona corretamente ou, simplesmente, é inutilizado.
-          <br><br>
-            Exemplos: placas de memória RAM, discos rígidos, SSDs internos, leitores de mídia (CD, DVD ou Blue Ray), placas-mãe, processadores, coolers, fontes, placas de vídeo, etc.
-            </h3>
-          <br>
-          <div>
-          <font color="#4B0082">
-            <h2>Hardware externo:</h2>
-            <hr size="6px" width="100%" color="#3b0063"></hr>
-          </font>
-        </div>
-            <h3>São todos os componentes conectados externamente a um dispositivo, por portas como USB, VGA, Ethernet, HDMI, de áudio, etc. Em geral, agregam funções não essenciais ao computador, como imprimir um documento, ouvir áudio ou ampliar a capacidade de armazenamento. São, em suma, todos os periféricos conectados.
-            <br><br>
-            Exemplos: impressoras, scanners, monitores, mouses, teclados, webcams, fones de ouvido, microfones, auto-falantes, cabos, unidades de armazenamento externas (HDs, cartões SSD, pendrives), projetores, joysticks etc.</h3>
-          
-
-
-        </article>
-
+                <div>
+                <font color="#4B0082">
+                    <h2>Hardware externo:</h2>
+                    <hr size="3px" width="100%" color="#3b0063"></hr>
+                </font>
+                </div>
+                    <h3>São todos os componentes conectados externamente a um dispositivo, por portas como USB, VGA, Ethernet, HDMI, de áudio, etc. Em geral, agregam funções não essenciais ao computador, como imprimir um documento, ouvir áudio ou ampliar a capacidade de armazenamento. São, em suma, todos os periféricos conectados.
+                    <br><br>
+                    Exemplos: impressoras, scanners, monitores, mouses, teclados, webcams, fones de ouvido, microfones, auto-falantes, cabos, unidades de armazenamento externas (HDs, cartões SSD, pendrives), projetores, joysticks etc.</h3>
+            </article>
+        
+         
 
     <footer>
         <div id="footer_content">
@@ -148,5 +169,30 @@
             2024 direitos reservados a Syzs Tech
         </div>
     </footer>
+
+
+
+    <script>
+        
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+    </script>
 </body>
 </html>
