@@ -7,32 +7,40 @@
     <title>componentes</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/footer.css">
-    <link rel="stylesheet" href="css/style.css"
+    <link rel="stylesheet" href="css/navbar.css">
+    <link rel="stylesheet" href="css/carro.css">
 </head>
 <body>
-    <section class="container">
-        <nav class="navbar">
-        <ul>
-                <li><a href="/syzs/index.php">HOME</a></li>
-                <li><a href="/partes-sergio-syzs/componentes.php">COMPONENTES</a>
-                </li>
-                <li><a href="/partes-sergio-syzs/quemsomos.php">QUEM SOMOS</a></li>
-                <li>
-                <a href="#">MANUTENÇÕES</a>
-                  <ul class="dropdown">
-                  <li><a href="./manutençao/placa-mae.html">PLACA-MÃE</a></li>
-                    <li><a href="./manutençao/cpu.html">CPU</a></li>
-                    <li><a href="./manutençao/memoria-ram.html">MEMÓRIA RAM</a></li>
-                    <li><a href="./manutençao/disco-rigido.html">DISCO RÍGIDO</a></li>
-                    <li><a href="./manutençao/ssd.html">SSD</a></li>
-                    <li><a href="./manutençao/gpu.html">GPU</a></li>
-                    <li><a href="./manutençao/psu.html">PSU</a></li>
-                  </ul>
-                </li>
-            </ul>
-        </nav>
+    <br><br><br><br><br><br>
+<header>
 
-<article>
+    <a href="#" class="logo">LOGO</a>
+
+    <input type="checkbox" id="menu-bar">
+    <label for="menu-bar">MENU</label>
+
+
+<nav class="navbar">
+    <ul>
+        <li><a href="/syzs/index.php">home</a></li>
+        <li><a href="/syzs/componentes.php">componentes</a></li>
+        <li><a href="/syzs/quemsomos.php">quem somos</a></li>
+        <li><a href="#">manutençao +</a>
+            <ul>
+                <li><a href="./manutençao/placa-mae.html">PLACA-MÃE</a></li>
+                <li><a href="./manutençao/cpu.html">CPU</a></li>
+                <li><a href="./manutençao/memoria-ram.html">MEMÓRIA RAM</a></li>
+                <li><a href="./manutençao/disco-rigido.html">DISCO RÍGIDO</a></li>
+                <li><a href="./manutençao/ssd.html">SSD</a></li>
+                <li><a href="./manutençao/gpu.html">GPU</a></li>
+                <li><a href="./manutençao/psu.html">PSU</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Quiz</a></li>
+    </ul>
+</nav>
+
+</header>
 
 <div>
         <font color="#4B0082">
@@ -53,7 +61,7 @@
                 </td>
                 <td>
                 <div class="img1">
-                <img src="placam.png">
+                <img src="./imgs/placam.png">
                 <p>Fonte: Google Fotos</p>
 
                 </div>
@@ -79,7 +87,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </td>
                 <td>
                 <div class="img3">
-                <img src="cpu.png" width="500px" ; >
+                <img src="./imgs/cpu.png" width="500px" ; >
                 <p>Fonte: Google Fotos</p>
 
                 </div>
@@ -104,7 +112,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </td>
               <td>
                 <div class="ram">
-                <img src="ram.png" width="500px" ;
+                <img src="./imgs/ram.png" width="500px" ;
                 <p>Fonte: Google Fotos</p>
   
                 
@@ -132,7 +140,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </td>
                 <td>
                 <div class="img5">
-                <img src="hd.png" width="500px" ; >
+                <img src="./imgs/hd.png" width="500px" ; >
                 <p>Fonte: Google Fotos</p>
                 </div>
             
@@ -155,7 +163,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
                 </td>
                 <td>
                 <div class="img6" ;>
-                <img src="ssd.png"width="500px" >
+                <img src="./imgs/ssd.png"width="500px" >
                 <p>Fonte: Google Fotos</p>
 
                 </div>
@@ -181,7 +189,7 @@ E não é só isso: as GPUs modernas cumprem um papel computacional mais amplo q
                 </td>
                 <td>
                 <div class="img7 " ;>
-                <img src="und.png"width="500px" >
+                <img src="./imgs/und.png"width="500px" >
                 <p>Fonte: Google Fotos</p>
 
                 </div>
@@ -207,7 +215,7 @@ Uma fonte de alimentação pode elevar ou baixar o nível de tensão, e também 
                 </td>
                 <td>
                 <div class="img8">
-                <img src="fonte.png" >
+                <img src="./imgs/fonte.png" >
                 <p> Fonte: Google Fotos</p>
                 </div>
             
