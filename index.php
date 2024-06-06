@@ -40,7 +40,7 @@
                 <li><a href="./manutençao/psu.html">PSU</a></li>
             </ul>
         </li>
-        <li><a href="#">Quiz</a></li>
+        <li><a href="/syzs/quiz.php">Quiz</a></li>
     </ul>
 </nav>
 
