@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/carro.css">
+    <link rel="stylesheet" href="css/style.css">
 
 
     <title>Home</title>
@@ -92,41 +93,69 @@
     <article>
         <div>
                 <font color="#4B0082">
-                    <h2>O que é o hardware:</h2>
-                    <hr size="3px" width="100%" color="#3b0063"></hr>
+                    <h2>Bem-vindo</h2>
+                    
                 </font>
                 </div>
-                <h3>Hardware é qualquer elemento físico de computadores e outros sistemas microeletrônicos. Ele pode ser um dispositivo externo ou interno. Em inglês, hardware significa “equipamento”.
+                <h3>nossa missão é desmistificar o mundo dos componentes de computador e ajudar você a entender melhor o funcionamento interno das máquinas que impulsionam nossa vida digital. Somos uma equipe de entusiastas e especialistas em tecnologia, dedicada a fornecer informações precisas e acessíveis sobre hardware.
                 </h3>
                 <br>
                 <br><br>
 
                 <div>
                 <font color="#4B0082">
-                    <h2>Hardware interno:</h2>
-                    <hr size="3px" width="100%" color="#3b0063"></hr>
+                    <h2>Nossos Objetivos?</h2>
+                    
                 </font>
                 </div>
                 <h3>
-                Se refere aos componentes localizados no interior do dispositivo, essenciais para o seu funcionamento. Ou seja, sem um deles, o celular, tablet ou PC não funciona corretamente ou, simplesmente, é inutilizado.
+                •Educação: Fornecer recursos educativos detalhados sobre os componentes de hardware, suas funções e como eles interagem dentro de um sistema de computador.
                 <br><br>
-                    Exemplos: placas de memória RAM, discos rígidos, SSDs internos, leitores de mídia (CD, DVD ou Blue Ray), placas-mãe, processadores, coolers, fontes, placas de vídeo, etc.
+                •Comunidade: Criar um espaço onde entusiastas de hardware possam compartilhar conhecimentos, experiências e ajudar uns aos outros.
                     </h3>
                 <br>
                 <br><br>
 
                 <div>
                 <font color="#4B0082">
-                    <h2>Hardware externo:</h2>
-                    <hr size="3px" width="100%" color="#3b0063"></hr>
+                    <h2>Destaques</h2>
+                    
                 </font>
                 </div>
-                    <h3>São todos os componentes conectados externamente a um dispositivo, por portas como USB, VGA, Ethernet, HDMI, de áudio, etc. Em geral, agregam funções não essenciais ao computador, como imprimir um documento, ouvir áudio ou ampliar a capacidade de armazenamento. São, em suma, todos os periféricos conectados.
+                    <h3>• Componentes de Hardware: Explore nossas seções detalhadas sobre cada componente de um computador, incluindo processadores, placas-mãe, memórias, placas de vídeo, e mais.
                     <br><br>
-                    Exemplos: impressoras, scanners, monitores, mouses, teclados, webcams, fones de ouvido, microfones, auto-falantes, cabos, unidades de armazenamento externas (HDs, cartões SSD, pendrives), projetores, joysticks etc.</h3>
+                    <h3>• Manutenção e Upgrades: Dicas e truques para manter seu computador em ótimo estado e realizar upgrades de maneira eficaz.</h3>
+<br><br>
+
+
+                    <font color="#4B0082">
+                    <h2>O que Oferecemos?</h2>
+                    
+                </font>
+                </div>
+                    <h3>• Guias e Tutoriais: Instruções passo a passo para montagem, manutenção e atualização de PCs.
+                    <br><br>
+                   <h3> • Quiz Interativo: Teste seus conhecimentos sobre hardware com nossos quizzes interativos e aprenda de maneira divertida e envolvente.</h3>
+
+            <br><br>
+            <h2>Não perca a chance de se conectar com outros entusiastas de hardware e aprofundar seus conhecimentos sobre o assunto. Junte-se a nós hoje mesmo!</h2>
+            </article>
+
+
+
+
+
             </article>
         
          
+
+
+
+
+
+
+
+
 
     <footer>
         <div id="footer_content">
@@ -166,13 +195,13 @@
 
             <ul class="footer-list">
                 <li>
-                    <h3>Products</h3>
+                    <h3>Contatos:</h3>
                 </li>
                 <li>
-                    <a href="#" class="footer-link">App</a>
+                    <a href="#" class="footer-link">(88)2927473054)</a>
                 </li>
                 <li>
-                    <a href="#" class="footer-link">Desktop</a>
+                    <a href="#" class="footer-link">syzs.tech@</a>
                 </li>
                 <li>
                     <a href="#" class="footer-link">Cloud</a>

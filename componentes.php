@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/carro.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <br><br><br><br><br><br>
@@ -98,7 +99,7 @@ Uma CPU é feita de bilhões de transistores, que são pequenas peças microscó
         <div>
         <font color="#4B0082">
             <h2>O que é memoria RAM?</h2>
-            <hr size="6px" width="100%" color="#3b0063"></hr>
+            <hr size="6px" width="100%"  color="#3b0063"></hr>
             </font>
         </div>
         <table>

@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/carro.css">
-
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <br><br>
@@ -39,9 +39,23 @@
         </li>
         <li><a href="/syzs/quiz.php">Quiz</a></li>
     </ul>
+
+
 </nav>
 
 </header>
+</div>
+<table>
+            <tr>
+                <td><article>
+                <br>
+                
+                <br>
+                <h3>
+                Somos estudantes da Escola Estadual de Educação Profissional (EEEP) Paulo Barbosa Leite, localizada em Caririaçu, Ceará. Desenvolvemos esse software para ajudar no entendimento das partes físicas de um computador. O software oferece uma interface educacional que detalha cada componente do hardware, explicando suas funções e características.
+                </h3>
+                <br>
+            
+                          
 
-</body>
 </html>
