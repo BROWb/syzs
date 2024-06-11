@@ -15,17 +15,18 @@
     <br><br><br><br><br><br>
 <header>
 
-    <a href="#" class="logo">LOGO</a>
+<a href="logo.png" class="logo">
+    <img src="./imgs/logo.png" width="100px";>
+    </a>
 
     <input type="checkbox" id="menu-bar">
     <label for="menu-bar">MENU</label>
 
 
-<nav class="navbar">
+    <nav class="navbar">
     <ul>
         <li><a href="/syzs/index.php">home</a></li>
         <li><a href="/syzs/componentes.php">componentes</a></li>
-        <li><a href="/syzs/quemsomos.php">quem somos</a></li>
         <li><a href="#">manutençao +</a>
             <ul>
                 <li><a href="./manutençao/placa-mae.html">PLACA-MÃE</a></li>
@@ -38,6 +39,7 @@
             </ul>
         </li>
         <li><a href="/syzs/quiz.php">Quiz</a></li>
+        <li><a href="./FAQ/faq.html">FAQ</a></li>
     </ul>
 </nav>
 

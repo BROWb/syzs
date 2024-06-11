@@ -28,7 +28,7 @@ background: linear-gradient(280deg, rgb(63, 181, 255) 2%, rgb(57, 84, 194) 25%, 
 header .logo{
     font-weight: bolder;
     font-size: 25px;
-    color: blueviolet;
+    color: rgb(213, 230, 255);
 }
 
 header .navbar ul{

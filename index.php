@@ -19,7 +19,8 @@
 
 <header>
 
-    <a href="#" class="logo">LOGO</a>
+    <a href="logo.png" class="logo">SAGE TECH
+    </a>
 
     <input type="checkbox" id="menu-bar">
     <label for="menu-bar">MENU</label>
@@ -29,7 +30,6 @@
     <ul>
         <li><a href="/syzs/index.php">home</a></li>
         <li><a href="/syzs/componentes.php">componentes</a></li>
-        <li><a href="/syzs/quemsomos.php">quem somos</a></li>
         <li><a href="#">manutençao +</a>
             <ul>
                 <li><a href="./manutençao/placa-mae.html">PLACA-MÃE</a></li>
@@ -42,11 +42,12 @@
             </ul>
         </li>
         <li><a href="/syzs/quiz.php">Quiz</a></li>
+        <li><a href="./FAQ/faq.html">FAQ</a></li>
     </ul>
 </nav>
 
 </header>
-          <br><br><br>
+          <br><br><br><br><br>
           
     <div class="slideshow-container" >
 
@@ -97,8 +98,8 @@
                     
                 </font>
                 </div>
-                <h3>nossa missão é desmistificar o mundo dos componentes de computador e ajudar você a entender melhor o funcionamento interno das máquinas que impulsionam nossa vida digital. Somos uma equipe de entusiastas e especialistas em tecnologia, dedicada a fornecer informações precisas e acessíveis sobre hardware.
-                </h3>
+                <h4>nossa missão é desmistificar o mundo dos componentes de computador e ajudar você a entender melhor o funcionamento interno das máquinas que impulsionam nossa vida digital. Somos uma equipe de entusiastas e especialistas em tecnologia, dedicada a fornecer informações precisas e acessíveis sobre hardware.
+                </h4>
                 <br>
                 <br><br>
 
@@ -108,11 +109,11 @@
                     
                 </font>
                 </div>
-                <h3>
+                <h4>
                 •Educação: Fornecer recursos educativos detalhados sobre os componentes de hardware, suas funções e como eles interagem dentro de um sistema de computador.
                 <br><br>
                 •Comunidade: Criar um espaço onde entusiastas de hardware possam compartilhar conhecimentos, experiências e ajudar uns aos outros.
-                    </h3>
+                    </h4>
                 <br>
                 <br><br>
 
@@ -122,9 +123,9 @@
                     
                 </font>
                 </div>
-                    <h3>• Componentes de Hardware: Explore nossas seções detalhadas sobre cada componente de um computador, incluindo processadores, placas-mãe, memórias, placas de vídeo, e mais.
+                    <h4>• Componentes de Hardware: Explore nossas seções detalhadas sobre cada componente de um computador, incluindo processadores, placas-mãe, memórias, placas de vídeo, e mais.
                     <br><br>
-                    <h3>• Manutenção e Upgrades: Dicas e truques para manter seu computador em ótimo estado e realizar upgrades de maneira eficaz.</h3>
+                    <h4>• Manutenção e Upgrades: Dicas e truques para manter seu computador em ótimo estado e realizar upgrades de maneira eficaz.</h3>
 <br><br>
 
 
@@ -133,9 +134,9 @@
                     
                 </font>
                 </div>
-                    <h3>• Guias e Tutoriais: Instruções passo a passo para montagem, manutenção e atualização de PCs.
+                    <h4>• Guias e Tutoriais: Instruções passo a passo para montagem, manutenção e atualização de PCs.
                     <br><br>
-                   <h3> • Quiz Interativo: Teste seus conhecimentos sobre hardware com nossos quizzes interativos e aprenda de maneira divertida e envolvente.</h3>
+                   <h3> • Quiz Interativo: Teste seus conhecimentos sobre hardware com nossos quizzes interativos e aprenda de maneira divertida e envolvente.</h4>
 
             <br><br>
             <h2>Não perca a chance de se conectar com outros entusiastas de hardware e aprofundar seus conhecimentos sobre o assunto. Junte-se a nós hoje mesmo!</h2>
@@ -148,13 +149,6 @@
             </article>
         
          
-
-
-
-
-
-
-
 
 
     <footer>
