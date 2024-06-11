@@ -15,8 +15,8 @@
     <br><br><br><br><br><br>
 <header>
 
-<a href="logo.png" class="logo">
-    <img src="./imgs/logo.png" width="100px";>
+<a href="logo.png" class="logo"> SAGE TECH
+
     </a>
 
     <input type="checkbox" id="menu-bar">
@@ -232,7 +232,7 @@ Uma fonte de alimentação pode elevar ou baixar o nível de tensão, e também 
   <footer>
     <div id="footer_content">
         <div id="footer_contacts">
-            <h1>Logo</h1>
+        <img src="./imgs/logo.png" width="115px";>
             <p>It's all about your dreams.</p>
 
             <div id="footer_social_media">
@@ -266,18 +266,18 @@ Uma fonte de alimentação pode elevar ou baixar o nível de tensão, e também 
         </ul>
 
         <ul class="footer-list">
-            <li>
-                <h3>Products</h3>
-            </li>
-            <li>
-                <a href="#" class="footer-link">App</a>
-            </li>
-            <li>
-                <a href="#" class="footer-link">Desktop</a>
-            </li>
-            <li>
-                <a href="#" class="footer-link">Cloud</a>
-            </li>
+                <li>
+                    <h3>Contatos:</h3>
+                </li>
+                <li>
+                    <a href="#" class="footer-link">(88)2927473054</a>
+                </li>
+                <li>
+                    <a href="#" class="footer-link">syzs.tech@</a>
+                </li>
+                <li>
+                    <a href="#" class="footer-link">Cloud</a>
+                </li>
         </ul>
         </div>
     </div>

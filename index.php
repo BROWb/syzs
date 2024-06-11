@@ -28,9 +28,9 @@
 
 <nav class="navbar">
     <ul>
-        <li><a href="/syzs/index.php">home</a></li>
+        <li><a href="/syzs/index.php">Home</a></li>
         <li><a href="/syzs/componentes.php">componentes</a></li>
-        <li><a href="#">manutençao +</a>
+        <li><a href="#">Manutenção +</a>
             <ul>
                 <li><a href="./manutençao/placa-mae.html">PLACA-MÃE</a></li>
                 <li><a href="./manutençao/cpu.html">CPU</a></li>
@@ -98,7 +98,7 @@
                     
                 </font>
                 </div>
-                <h4>nossa missão é desmistificar o mundo dos componentes de computador e ajudar você a entender melhor o funcionamento interno das máquinas que impulsionam nossa vida digital. Somos uma equipe de entusiastas e especialistas em tecnologia, dedicada a fornecer informações precisas e acessíveis sobre hardware.
+                <h4>Nossa missão é desmistificar o mundo dos componentes de computador e ajudar você a entender melhor o funcionamento interno das máquinas que impulsionam nossa vida digital. Somos uma equipe de entusiastas e especialistas em tecnologia, dedicada a fornecer informações precisas e acessíveis sobre hardware.
                 </h4>
                 <br>
                 <br><br>
@@ -154,7 +154,7 @@
     <footer>
         <div id="footer_content">
             <div id="footer_contacts">
-                <h1>Logo</h1>
+             <img src="./imgs/logo.png" width="115px";>
                 <p>Saiba mais sobre:</p>
 
                 <div id="footer_social_media">

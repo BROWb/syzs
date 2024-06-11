@@ -21,8 +21,7 @@
 
 <header>
 
-<a href="logo.png" class="logo">
-    <img src="./imgs/logo.png" width="100px";>
+<a href="logo.png" class="logo">SAGE TECH
     </a>
 
     <input type="checkbox" id="menu-bar">
