@@ -9,7 +9,7 @@
     if ($mysqli->error) {
         die("conexao falhou". $mysqli->error);
     }else{
-        echo"amem, deu certo";
+        echo"Login efetuado com sucesso";
     };
 
 ?>

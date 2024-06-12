@@ -43,6 +43,7 @@
         </li>
         <li><a href="/syzs/quiz.php">Quiz</a></li>
         <li><a href="./FAQ/faq.html">FAQ</a></li>
+        <li><a href="./login/login.php">Faça Login</a></li>
     </ul>
 </nav>
 
